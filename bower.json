@@ -1,0 +1,25 @@
+{
+  "name": "game",
+  "main": "game.js",
+  "homepage": "https://github.com/al-shep/game",
+  "authors": [
+    "al-shep <alecsheppard22@gmail.com>"
+  ],
+  "description": "2D Game Library",
+  "keywords": [
+    "2D",
+    "game",
+    "library"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
