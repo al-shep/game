@@ -9,6 +9,7 @@
           distance = Math.sqrt(distanceX * distanceX + distanceY * distanceY)
         return distance
       }
+      //this is a change
     }
   }
 }(window, window._))
